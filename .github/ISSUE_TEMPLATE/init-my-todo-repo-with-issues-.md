@@ -1,7 +1,7 @@
 ---
 name: 'Init my ToDo Repo with Issues '
 about: Create this issue to init my Repo with some tasks
-title: Please add some issues to my todo app repo
+title: Init my todo-app repository
 labels: todo-app-init
 assignees: ''
 
